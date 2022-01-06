@@ -5,7 +5,7 @@
 
 > 修改Main.java的配置信息
 > 
-> 查看[配置说明](https://mp.baomidou.com/guide/generator-new.html#%E8%AF%B4%E6%98%8E)
+> 查看[配置说明](https://baomidou.com/pages/981406/#%E6%95%B0%E6%8D%AE%E5%BA%93%E9%85%8D%E7%BD%AE-datasourceconfig)
 > 
 > 
 > 
